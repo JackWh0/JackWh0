@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning/practicing: Java, Javascript, Python, Spring, React, HTML and CSS;
 - 👯 I’m looking to collaborate on open source projects;
-- 📺 I'm a huge fan of Doctor Who, Breaking Bad, Stranger Things, Supernatural, The Big Bang Theory and Avatar(not the blue one);
+- 📺 I'm a huge fan of Doctor Who, Breaking Bad, Stranger Things, Supernatural, The Big Bang Theory and Avatar (not the blue one);
 - 🎖️ My favorite anime is: Saiki Kusuo no Psi-nan;
 <a href="https://www.linkedin.com/in/jackson-silva-bezerra/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
@@ -20,7 +20,7 @@
 
 <hr>
 
-<h3>😁 Just for fun, here is a Random meme:</h3>
+<h3>😁 Just for fun, here is a random meme:</h3>
 <img src='https://random-memer.herokuapp.com/' height="500px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
