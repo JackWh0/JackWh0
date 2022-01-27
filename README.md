@@ -17,10 +17,3 @@
 <a href="https://www.instagram.com/j4ckwho/">
   <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt="instagram">
 </a>
-
-<hr>
-
-<h3>😁 Just for fun, here is a random meme:</h3>
-<img src='https://random-memer.herokuapp.com/' height="500px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-
