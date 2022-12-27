@@ -4,7 +4,7 @@
 
 ## Hi there 👋 I'm Jackson
 
-- 🌱 I’m currently learning/practicing: Java, Javascript, Python, Spring, React, HTML and CSS;
+- 🌱 I’m currently learning/practicing: Java, Javascript, Python, Spring, HTML and CSS;
 - 👯 I’m looking to collaborate on open source projects;
 - 📺 I'm a huge fan of Doctor Who, Breaking Bad, Stranger Things, Supernatural, The Big Bang Theory and Avatar (not the blue one);
 - 🎖️ My favorite anime is: Saiki Kusuo no Psi-nan;
@@ -18,5 +18,3 @@
   <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt="instagram">
 </a>
 <hr>
-<h3>😁 Just for fun, here is a random meme:</h3>
-<img src='https://random-memer.herokuapp.com/' height="500px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
